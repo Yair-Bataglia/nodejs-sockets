@@ -11,7 +11,6 @@ const noteUI = note => { // ESTA FUNCION TOMA UN PARAMETRO COMO VALOR Y PROCESA 
     div.innerHTML = `
     <div class="card card-body rounded-0 mb-2 mb-2 animate__animated animate__fadeInUp">
         <div class="d-flex justify-content-between">
-            <h1 class="h3 card-title">${note.title}</h1>
             <div>
                 <button class="btn btn-danger delete" data-id="${note.id}">delete</button>
                 <button class="btn btn-secondary update" data-id="${note.id}">update</button>
