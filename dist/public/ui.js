@@ -9,7 +9,7 @@ var noteUI = function noteUI(note) {
   var div = document.createElement('div');
 
   //AGREGO AL DIV LIST UN H1 CON LA PROPIEDAD TITLE DEL NOTE
-  div.innerHTML = "\n    <div class=\"card card-body rounded-0 mb-2 mb-2 animate__animated animate__fadeInUp\">\n        <div class=\"d-flex justify-content-between\">\n            <h1 class=\"h3 card-title\">".concat(note.title, "</h1>\n            <div>\n                <button class=\"btn btn-danger delete\" data-id=\"").concat(note.id, "\">delete</button>\n                <button class=\"btn btn-secondary update\" data-id=\"").concat(note.id, "\">update</button>\n            </div>\n        </div>\n            <p>").concat(note.description, "</p>\n    </div>\n    ");
+  div.innerHTML = "\n    <div class=\"card card-body rounded-0 mb-2 mb-2 animate__animated animate__fadeInUp\">\n        <div class=\"d-flex justify-content-between\">\n            <h1 class=\"h3 card-title\">".concat(note.title, "</h1>\n            <div>\n                <button class=\"btn btn-danger delete\" data-id=\"").concat(note.id, "\">delete</button>\n                <button class=\"btn btn-secondary update\" data-id=\"").concat(note.id, "\">update</button>\n            </div>\n        </div>\n            <p>");
   var btnDelete = div.querySelector('.delete');
   var btnUpdate = div.querySelector('.update');
   btnDelete.addEventListener('click', function () {
