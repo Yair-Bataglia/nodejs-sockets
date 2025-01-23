@@ -72,8 +72,7 @@ Asegúrate de tener instalado lo siguiente:
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, sigue estos pasos:
-
+Las contribuciones son bienvenidas
 
 ## Licencia
 
