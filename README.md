@@ -51,7 +51,6 @@ Asegúrate de tener instalado lo siguiente:
 
 ```
 /src
- |-- .env                 # Variables de entorno
  |-- index.js             # Archivo principal del servidor
  |-- /public              # Archivos estáticos
        |-- index.html     # Interfaz del usuario
