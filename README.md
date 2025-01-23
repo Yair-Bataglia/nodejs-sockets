@@ -72,22 +72,6 @@ Asegúrate de tener instalado lo siguiente:
 
 ---
 
-## Despliegue en Render
-
-1. **Sube tu proyecto a un repositorio Git (GitHub, GitLab, etc.).**
-
-2. En Render:
-   - Crea un nuevo servicio de **Web Service**.
-   - Conecta tu repositorio.
-   - Configura los siguientes campos:
-     - **Build Command**: `npm install`
-     - **Start Command**: `npm start`
-   - Agrega la variable de entorno `PORT` con el valor `3000`.
-
-3. Una vez completado, Render se encargará de construir y desplegar tu aplicación. Obtendrás una URL para acceder a tu proyecto en la nube.
-
----
-
 ## Funcionalidades principales
 
 - **Crear notas**: Agregar nuevas notas con título y descripción.
@@ -102,27 +86,6 @@ Asegúrate de tener instalado lo siguiente:
 
 Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, sigue estos pasos:
 
-1. Haz un fork del repositorio.
-2. Crea una rama para tu función o bugfix:
-
-   ```bash
-   git checkout -b mi-nueva-funcionalidad
-   ```
-
-3. Realiza tus cambios y haz commit:
-
-   ```bash
-   git commit -m "Agrega una nueva funcionalidad"
-   ```
-
-4. Haz push de la rama:
-
-   ```bash
-   git push origin mi-nueva-funcionalidad
-   ```
-
-5. Crea un Pull Request.
-
 ---
 
 ## Licencia
@@ -133,6 +96,5 @@ Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribui
 
 ## Autor
 
-**[Tu Nombre]**  
-Describe brevemente tu perfil o agrega un enlace a tus redes.
+**Yair Bataglia**  
 
