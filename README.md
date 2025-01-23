@@ -4,12 +4,14 @@ Este proyecto es una aplicación CRUD en tiempo real construida con Node.js, Exp
 
 ## Tecnologías utilizadas
 
-- **Node.js** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white): Plataforma de desarrollo backend.
-- **Express** ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white): Framework web para Node.js.
-- **WebSockets (Socket.io)** ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white): Comunicación bidireccional en tiempo real entre el cliente y el servidor.
-- **Bootstrap** ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white): Framework de diseño CSS para un estilo rápido y responsivo.
-- **UUID** ![UUID](https://img.shields.io/badge/UUID-8B0000?style=for-the-badge&logo=uuid&logoColor=white): Generador de identificadores únicos para las notas.
-- 
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/UUID-8B0000?style=for-the-badge&logo=uuid&logoColor=white" alt="UUID">
+</p>
+
 ---
 
 ## Requisitos previos
