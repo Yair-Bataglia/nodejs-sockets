@@ -4,12 +4,12 @@ Este proyecto es una aplicación CRUD en tiempo real construida con Node.js, Exp
 
 ## Tecnologías utilizadas
 
-- **Node.js**: Plataforma de desarrollo backend.
-- **Express**: Framework web para Node.js.
-- **WebSockets (Socket.io)**: Comunicación bidireccional en tiempo real entre el cliente y el servidor.
-- **Bootstrap**: Framework de diseño CSS para un estilo rápido y responsivo.
-- **UUID**: Generador de identificadores únicos para las notas.
-
+- **Node.js** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white): Plataforma de desarrollo backend.
+- **Express** ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white): Framework web para Node.js.
+- **WebSockets (Socket.io)** ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white): Comunicación bidireccional en tiempo real entre el cliente y el servidor.
+- **Bootstrap** ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white): Framework de diseño CSS para un estilo rápido y responsivo.
+- **UUID** ![UUID](https://img.shields.io/badge/UUID-8B0000?style=for-the-badge&logo=uuid&logoColor=white): Generador de identificadores únicos para las notas.
+- 
 ---
 
 ## Requisitos previos
