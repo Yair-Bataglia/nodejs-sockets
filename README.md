@@ -12,7 +12,6 @@ Este proyecto es una aplicación CRUD en tiempo real construida con Node.js, Exp
   <img src="https://img.shields.io/badge/UUID-8B0000?style=for-the-badge&logo=uuid&logoColor=white" alt="UUID">
 </p>
 
----
 
 ## Requisitos previos
 
@@ -21,7 +20,6 @@ Asegúrate de tener instalado lo siguiente:
 - Node.js (v14 o superior)
 - npm (v6 o superior)
 
----
 
 ## Instalación
 
@@ -38,14 +36,6 @@ Asegúrate de tener instalado lo siguiente:
    npm install
    ```
 
-3. Configura las variables de entorno creando un archivo `.env` en el directorio `src` y agregando lo siguiente:
-
-   ```env
-   PORT=3000
-   ```
-
----
-
 ## Uso
 
 1. Inicia la aplicación:
@@ -56,7 +46,6 @@ Asegúrate de tener instalado lo siguiente:
 
 2. Abre tu navegador y accede a `http://localhost:3000`.
 
----
 
 ## Estructura del proyecto
 
@@ -72,7 +61,6 @@ Asegúrate de tener instalado lo siguiente:
        |-- ui.js          # Funciones para renderizar la interfaz
 ```
 
----
 
 ## Funcionalidades principales
 
@@ -82,21 +70,14 @@ Asegúrate de tener instalado lo siguiente:
 - **Eliminar notas**: Borrar una nota específica.
 - **Sincronización en tiempo real**: Cambios reflejados instantáneamente para todos los usuarios conectados.
 
----
 
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, sigue estos pasos:
 
----
 
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
-
----
-
-## Autor
-
-**Yair Bataglia**  
+ 
 
